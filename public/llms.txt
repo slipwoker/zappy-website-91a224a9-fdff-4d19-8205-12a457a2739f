@@ -1,0 +1,57 @@
+# Aroma Essense — Generative Engine Optimization Map
+
+> A wellness/aromatherapy business.
+
+---
+
+## Pages
+
+### Home
+https://aroma-essense-91a224a9.zappy5.app
+Discover expert essential oils information and aromatherapy guidance for stress relief, wellness, and natural healing. Transform your wellbeing today!
+
+### Services
+https://aroma-essense-91a224a9.zappy5.app/services
+Professional aromatherapy services including essential oils information, AI writer tools, and blog content creation. Expert guidance for your wellness journey.
+
+### About
+https://aroma-essense-91a224a9.zappy5.app/about
+Learn about Aroma Essense's mission to provide trusted essential oils information and empower individuals through aromatherapy education and AI-powered content tools.
+
+### Contact
+https://aroma-essense-91a224a9.zappy5.app/contact
+Contact Aroma Essense for essential oils information, aromatherapy guidance, and content creation support. We're here to help with your wellness journey.
+
+## Legal & Policy
+
+### Privacy Policy
+https://aroma-essense-91a224a9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://aroma-essense-91a224a9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://aroma-essense-91a224a9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Aroma Essense
+Aroma Essense is a business in the wellness/aromatherapy industry.
+
+## Target Audience
+regular people who can benefit from essential oils: stressed working professionals, tired moms, people with frequent illness
+
+## Industry
+wellness/aromatherapy
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://aroma-essense-91a224a9.zappy5.app/sitemap.xml
+- **Robots.txt**: https://aroma-essense-91a224a9.zappy5.app/robots.txt

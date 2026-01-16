@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aroma-essense-91a224a9.zappy5.app/sitemap.xml
